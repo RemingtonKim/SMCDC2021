@@ -1,0 +1,8 @@
+data
+models
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.vscode
+__pycache__
+UMLS_API_KEY.txt
+NCBI_API_KEY.txt
