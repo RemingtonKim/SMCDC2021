@@ -25,4 +25,6 @@ File|Description
 
 Note that `preprocessing.ipynb` should be run before anything else as its outputs are used in the other notebooks and files. To run a GCN model, run `python3 train_*_*.py`. Set `MODE = 'test'` if the model has been trained. `.pth` and log files for trained models will show up in `./models`. 
 
-
+## Contact
+* Remington Kim (remingtonskim@gmail.com)
+* Yue Ning (yue.ning@stevens.edu)
